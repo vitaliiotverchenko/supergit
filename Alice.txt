@@ -1,10 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Its a second row
-third row
-fourth row
-such a horrible interface! 
-Changes made from GitHub!
-If you can see this text - it means you made everything right with a stash! 
-- everything is here! 
+more, than just a commit 
 
-Added more information from GitHub! 
+
+
+more information about it 
