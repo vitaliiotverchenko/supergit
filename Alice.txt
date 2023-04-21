@@ -3,3 +3,7 @@ Its a second row
 third row
 fourth row
 such a horrible interface! 
+Changes made from GitHub!
+If you can see this text - it means you made everything right with a stash! 
+- everything is here! 
+
