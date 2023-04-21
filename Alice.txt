@@ -7,3 +7,4 @@ Changes made from GitHub!
 If you can see this text - it means you made everything right with a stash! 
 - everything is here! 
 
+Added more information from GitHub! 
